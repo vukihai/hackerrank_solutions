@@ -1,1 +1,1 @@
-# hackerrank_solutions
+# hackerrank solutions
